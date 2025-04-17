@@ -1,10 +1,11 @@
+'use client'
 import { Blogs } from '@/components/Types';
 import BlogCard from '@/components/ui/BlogCard';
+import { useGetBlogsQuery } from '@/redux/api/baseApi';
 import React from 'react'
 
-const BlogsPage = async() => {
-    const res = await fetch('http://localhost:5000/blogs')
-    const blogs =await res.json();
+const BlogsPage = () => {
+    const {data:blogs,isLoading,isError} = useGetBlogsQuery("")
   return (
     <div className='w-[90%] mx-auto'>
         <h1 className='text-3xl text-center text-accent my-6'>LatestBlogs All Blogs </h1>

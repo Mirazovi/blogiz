@@ -53,6 +53,24 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "7",
+      "title": "The Blockchain Revolution: Beyond Cryptocurrencies",
+      "description": "Explore the underlying technology of cryptocurrencies – blockchain – and its potential to revolutionize industries beyond finance. Delve into smart contracts, decentralized applications (DApps), and the growing adoption of blockchain in various sectors.",
+      "publish_date": "2024-03-03",
+      "author_name": "Fahim Ahammed Firoz",
+      "blog_image": "https://media.licdn.com/dms/image/D5612AQGeP6XjXfJCVA/article-cover_image-shrink_720_1280/0/1697003227988?e=2147483647&v=beta&t=_uW0A4JGrQK-AAT171YP-jMwxxRLWcDBM4rAZsHJfhI",
+      "total_likes": "800"
+    },
+    {
+      "id": "8",
+      "title": "AI Genarate",
+      "description": "test",
+      "publish_date": "2025-04-16",
+      "author_name": "Ovi",
+      "blog_image": "https://img.freepik.com/free-photo/futuristic-half-robot-tiger_23-2151558831.jpg?t=st=1744884807~exp=1744888407~hmac=ef82f4af3c1945fba60343798b6b3a453b5e4e137a19785806379074ae1d4329&w=1380",
+      "total_likes": "100"
     }
   ]
 }
